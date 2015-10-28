@@ -3,7 +3,8 @@
 /**
  * Module dependencies.
  */
-
+ 
+// Loads the debugger and the app
 var app = require('../app');
 var debug = require('debug')('exp2015:server');
 var http = require('http');
